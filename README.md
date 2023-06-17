@@ -1,5 +1,5 @@
 
-The code you provided is a simple C program that multiplies two matrices. The program first asks the user to enter the number of rows and columns of each matrix. Then, it generates two random matrices of the specified size. Finally, it multiplies the two matrices and prints the result.
+The program first asks the user to enter the number of rows and columns of each matrix. Then, it generates two random matrices of the specified size. Finally, it multiplies the two matrices and prints the result.
 
 The code is well-commented, so it should be easy to understand. However, there are a few things that you could improve:
 
@@ -13,4 +13,5 @@ Here are some additional things you could add to the code:
 A way to specify the seed for the random number generator.
 A way to save the results of the multiplication to a file.
 A way to multiply matrices of different sizes.
+
 
